@@ -1,6 +1,6 @@
 ## Hi there 🙌 你好呀 🌻 侬好 ✨
 
-<a href="https://www.linkedin.com/in/yurensun/">
+<a href="https://www.linkedin.com/in/yurensun/" target="_blank">
   <img align="left" alt="linkedin" width="30px" src="photo/linkedin-icon.png" />
 </a>
 <a href="https://www.behance.net/yurenSUN">
