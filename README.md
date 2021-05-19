@@ -21,9 +21,9 @@ Check out my "official profile" at https://yurensun.github.io/ or https://pages.
 
 My github io page is under construction :sweat_smile:, but check out some cool stuffs that are already up :arrow_heading_down:
 
-My Computer Graphics projects: https://yurensun.github.io/Computer-Graphics-Projects/
+[My Computer Graphics projects](https://yurensun.github.io/Computer-Graphics-Projects/)
 
 My Chinese blog at Zhihu: 
-- https://yurensun.github.io/blog_zhihu/housing-apartment
+- [学校周边租房](https://yurensun.github.io/blog_zhihu/housing-apartment)
 
 
