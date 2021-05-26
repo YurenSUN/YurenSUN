@@ -23,7 +23,7 @@ My github io page is under construction :sweat_smile:, but check out some cool s
 
 [My Computer Graphics projects](https://yurensun.github.io/Computer-Graphics-Projects/)
 
-My Chinese blog at Zhihu: 
+My Chinese blog migrated from Zhihu: 
 - [学校周边租房](https://yurensun.github.io/blog_zhihu/housing-apartment)
 
 
