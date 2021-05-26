@@ -25,5 +25,5 @@ My github io page is under construction :sweat_smile:, but check out some cool s
 
 My Chinese blog migrated from Zhihu: 
 - [学校周边租房](https://yurensun.github.io/blog_zhihu/housing-apartment)
-
+- [本科课程](https://yurensun.github.io/blog_zhihu/courses)
 
