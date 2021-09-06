@@ -17,13 +17,10 @@
 
 Hi, this is Yuren Sun, a undergrad at UW-Madison graduating in December 2021, majoring in CS, Math, and Econ, but focus on CS 😄 My passion with CS started with its application to problems in a broad range of fields 
 
-Check out my "official profile" at https://yurensun.github.io/ or https://pages.cs.wisc.edu/~yuren/
+Check out my [personal website](https://yurensun.github.io/) for more about me.
 
 My github io page is under construction :sweat_smile:, but check out some cool stuffs that are already up :arrow_heading_down:
 
 [My Computer Graphics projects](https://yurensun.github.io/Computer-Graphics-Projects/)
 
-My Chinese blog migrated from Zhihu: 
-- [学校周边租房](https://yurensun.github.io/blog_zhihu/housing-apartment)
-- [本科课程](https://yurensun.github.io/blog_zhihu/courses)
-
+[My Chinese blog migrated from Zhihu](https://yurensun.gitbook.io/blogs/)
