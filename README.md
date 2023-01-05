@@ -15,7 +15,7 @@
 
 <br><br>
 
-Hi, this is Yuren Sun. I received my BS degree from UW-Madison graduating in December 2021, majoring in CS, Math, and Econ, but focus on CS 😄 My passion with CS started with its application to problems in a broad range of fields 
+Hi, this is Yuren Sun. I am a first-year Master student in Computer Science at Stanford University. I received my BS degree from UW-Madison in December 2021, majoring in CS, Math, and Econ😄 My passion with CS started with its application to problems in a broad range of fields 
 
 Check out my [personal website](https://yurensun.github.io/) for more about me.
 
